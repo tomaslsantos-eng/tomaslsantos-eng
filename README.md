@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I'm Tomás Santos 👋
 
-<!--
-**tomaslsantos-eng/tomaslsantos-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ **Electrical and Computer Engineering Graduate** from **Instituto Superior Técnico (IST)**, Lisbon. 
+Currently preparing for Master's studies in **Power Systems & Renewable Energy in Germany 🇩🇪**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 About Me & Focus Areas
+- 📐 **Industry Experience:** Currently working on electrical execution projects (*projetos de execução*) alongside a certified Senior Electrical Engineer.
+- ⚡ **Engineering Core:** Power Systems Analysis, Low/Medium Voltage Installations, Power Electronics, and Smart Grid Automation.
+- 💻 **Software & Systems:** C/C++, Python, Parallel Processing (pthreads), Embedded Systems, and Web Integration (React/Vite).
+- 🇩🇪 **Languages:** Portuguese (Native), English (Fluent), German (Active self-study: A2/B1).
+
+---
+
+## 🎓 Academic Background
+
+### **Licenciatura em Engenharia Eletrotécnica e de Computadores (LEEC)**
+**Instituto Superior Técnico (IST) — Universidade de Lisboa** *(2023 – 2026)*
+* **Qualification:** Bachelor's Degree | EQF Level 6 (180 ECTS)
+* **Featured Coursework & Key Grades:**
+  * ⚡ *Power & Systems:* Fundamentals of Electrical Power Systems (14/20), Automatic Control (16/20), Modelling and Simulation (17/20).
+  * 💻 *Programming & Computing:* Concurrent Programming (18/20), Programming (17/20), Digital Systems (16/20), Algorithms & Data Structures (13/20).
+  * 🛠️ *Integrated Project:* 1st Cycle Engineering Project (15/20).
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Languages:** `C`, `C++`, `Python`, `JavaScript/HTML/CSS`, `MATLAB`
+- **Engineering & Systems:** `Pthreads (Parallel Computing)`, `Control Systems`, `Git / GitHub`
+- **Frameworks:** `React`, `Vite`
+
+---
+
+## 📌 Featured Projects
+- 🌐 **[Ist-Pic-Website](https://github.com/tomaslsantos-eng/Ist-Pic-Website):** Source code for the React/Vite website developed for the Course Integration Project (PIC) at IST.
+- ⚡ **[old-photo-parallel](https://github.com/tomaslsantos-eng/old-photo-parallel):** Parallel image processing in C using pthreads with static and dynamic thread scheduling strategies.
+- 🔤 **[spell-checker](https://github.com/tomaslsantos-eng/spell-checker):** C-based spell checker that detects, auto-fixes, and suggests dictionary corrections.
+
+---
+
+📬 **Connect with me:** [tomas.l.santos.eng@gmail.com](mailto:tomas.l.santos.eng@gmail.com)
