@@ -24,13 +24,13 @@ Currently preparing for Master's studies in **Power Systems & Renewable Energy i
   * 🛠️ *Integrated Project:* 1st Cycle Engineering Project (15/20).
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** `C`, `C++`, `Python`, `JavaScript/HTML/CSS`, `MATLAB`
-- **Engineering & Systems:** `Pthreads (Parallel Computing)`, `Control Systems`, `Git / GitHub`
-- **Frameworks:** `React`, `Vite`
-
+- **Engineering & CAD:** `AutoCAD` (Electrical Execution Projects), `MATLAB`, `Control Systems`
+- **Programming Languages:** `C/C++`, `Python`, `R`, `RISC-V`
+- **Systems & Tools:** `Linux`, `Git / GitHub`, `LaTeX`, `Excel`
+- **Advanced Computing:** `Pthreads` (Parallel Computing)
+- **Web Development:** `React`, `Vite`, `JavaScript/HTML/CSS`
 ---
 
 ## 📌 Featured Projects
