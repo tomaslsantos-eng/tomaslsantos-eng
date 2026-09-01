@@ -1,7 +1,7 @@
 ## Hi, I'm Tomás Santos 👋
 
 ⚡ **Electrical and Computer Engineering Graduate** from **Instituto Superior Técnico (IST)**, Lisbon. 
-Currently preparing for Master's studies in **Power Systems & Renewable Energy in Germany 🇩🇪**.
+
 
 ---
 
