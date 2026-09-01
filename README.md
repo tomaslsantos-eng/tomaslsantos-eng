@@ -9,7 +9,10 @@ Currently preparing for Master's studies in **Power Systems & Renewable Energy i
 - 📐 **Industry Experience:** Currently working on electrical execution projects (*projetos de execução*) alongside a certified Senior Electrical Engineer.
 - ⚡ **Engineering Core:** Power Systems Analysis, Low/Medium Voltage Installations, Power Electronics, and Smart Grid Automation.
 - 💻 **Software & Systems:** C/C++, Python, Parallel Processing (pthreads), Embedded Systems, and Web Integration (React/Vite).
-- 🇩🇪 **Languages:** Portuguese (Native), English (Fluent), German (Active self-study: A2/B1).
+-  - 🗣️ **Languages:** 
+  - 🇵🇹 **Portuguese:** Native
+  - 🇬🇧 **English:** Fluent
+  - 🇩🇪 **German:** Active Self-Study (Targeting A2/B1)
 
 ---
 
